@@ -22,9 +22,15 @@ The goals of this hackevent are to have a basic code base for one or more
 of the following aspects:
 
 - Apps that read sensor data and transmit them, with the user's consent,
-  for scientific purposes
+  for scientific purposes (distributed measurements); preprocessing might be
+  necessary, e.g. using microphones for measuring noise levels in cities,
+  but not recording what people are saying
 - Apps for conducting scientific experiments with human subjects
-- Games with a scientific purpose
+- Games with a scientific purpose: visual interface, interactivity, multi-person
+  games, real-time transmission of data between players; recording gaming data
+  for scientific analysis
+- Simple way for users to give informed consent and to download their own data
+  for the sake of transparency and sharing
 
 
 More to come soon...
