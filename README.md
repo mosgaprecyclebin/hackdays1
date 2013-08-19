@@ -2,7 +2,7 @@ First Hackday Event on Creating a Mobile Sensor and Gaming Platform
 ===================================================================
 
 **Dates:**
-9 - 11 September 2013
+9/10 September 2013, plus 11 September if needed, from 9:30am, open end
 
 **Location:**
 ETH Zurich, Building CLD, Room CLD A1
