@@ -33,5 +33,17 @@ of the following aspects:
   for the sake of transparency and sharing
 
 
-More to come soon...
---------------------
+Program
+-------
+
+Monday, 9 September:
+
+- We start at 9:30am
+- Some short presentations/demos (not more than 15 minutes each) on ideas and
+  previous work:
+  - Dirk Helbing
+  - Ulf Blanke
+  - Markus Christen
+  - _(your name could be here)_
+- Then some discussions/brainstorming; definition of goals and subgroups
+- Start hacking...
