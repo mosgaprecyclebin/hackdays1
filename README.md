@@ -44,6 +44,7 @@ Monday, 9 September:
   - Dirk Helbing
   - Ulf Blanke
   - Markus Christen
+  - Benedek Vartok
   - _(your name could be here)_
 - Then some discussions/brainstorming; definition of goals and subgroups
 - Start hacking...
