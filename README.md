@@ -48,3 +48,10 @@ Monday, 9 September:
   - _(your name could be here)_
 - Then some discussions/brainstorming; definition of goals and subgroups
 - Start hacking...
+
+
+License
+-------
+
+The code that results from these hackdays will be made available under the
+GPL license: http://www.gnu.org/licenses/gpl.html
