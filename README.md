@@ -51,6 +51,7 @@ Monday, 9 September:
 
 Tuesday, 10 September:
 
+- Starting again at 9:30am
 - Short discussion about the outcomes of the first day
 - Continue hacking...
 
