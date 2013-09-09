@@ -49,6 +49,15 @@ Monday, 9 September:
 - Then some discussions/brainstorming; definition of goals and subgroups
 - Start hacking...
 
+Tuesday, 10 September:
+
+- Short discussion about the outcomes of the first day
+- Continue hacking...
+
+Wednesday, 11 September:
+
+- If needed, continue hacking...
+
 
 License
 -------
