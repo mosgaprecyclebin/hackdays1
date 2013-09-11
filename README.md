@@ -45,7 +45,6 @@ Monday, 9 September:
   - Ulf Blanke
   - Markus Christen
   - Benedek Vartok
-  - _(your name could be here)_
 - Then some discussions/brainstorming; definition of goals and subgroups
 - Start hacking...
 
@@ -60,8 +59,19 @@ Wednesday, 11 September:
 - If needed, continue hacking...
 
 
+Outcomes
+--------
+
+The following code repos were created:
+
+- I am Science: A central app for science apps (https://github.com/mosgap/i-am-science)
+- Nervous: A test app for the planetary nervous system (https://github.com/mosgap/nervous)
+- ShowMeYourWorld: An app for taking and sharing pictures that could be used for
+  scientific purposes (https://github.com/mosgap/showmeyourworld)
+
+
 License
 -------
 
-The code that results from these hackdays will be made available under the
+The code that results from these hackdays is made available under the
 GPL license: http://www.gnu.org/licenses/gpl.html
